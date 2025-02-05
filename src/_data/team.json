@@ -1,119 +1,29 @@
 {
-  "title": "team that makes the difference.",
+  "title": "Η ΟΜΑΔΑ ΜΑΣ",
   "teamMembers":[
     {
-      "name": "PABLO ESCOBAR",
-      "dig": "Creative Director",
+      "name": "Σπύρος Κοντάκης",
+      "dig": "Aρχιμηχανικός",
       "img": "/assets/images/team/team-member-one.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
+      "description": "Ο Σπύρος είναι ο αρχιμηχανικός μας με πάνω από 20 χρόνια εμπειρίας."
     },
     {
-      "name": "MONTINO RIAU",
-      "dig": "Product Manager",
+      "name": "Χαρά Φωστιέρη",
+      "dig": "Γραμματεία",
       "img": "/assets/images/team/team-member-two.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
+      "description": "Η Χαρά είναι υπεύθυνη για την γραμματειακή υποστήριξη και την εξυπηρέτηση πελατών."
     },
     {
-      "name": "ALEX NAASRI",
-      "dig": "Chief Design Officer",
+      "name": "Γιαννάκης",
+      "dig": "Βοηθός Μηχανικού",
       "img": "/assets/images/team/team-member-three.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
+      "description": "Ο Γιαννάκης είναι ο βοηθός μηχανικού μας και ειδικεύεται στις επισκευές."
     },
     {
-      "name": "HONGMAN CHIOA",
-      "dig": "UX Researcher",
+      "name": "Φανοποιείο",
+      "dig": "Φανοποιείο",
       "img": "/assets/images/team/team-member-four.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
-    },
-    {
-      "name": "SANTIO ANDRESS",
-      "dig": "Content Researcher",
-      "img": "/assets/images/team/team-member-five.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
-    },
-    {
-      "name": "RAMESH PAUL",
-      "dig": "Creative Designer",
-      "img": "/assets/images/team/team-member-six.jpg",
-      "social":[
-        {
-          "icon": "medium",
-          "link": "#"
-        },
-        {
-          "icon": "linkedin",
-          "link": "#"
-        },
-        {
-          "icon": "instagram",
-          "link": "#"
-        }
-      ]
+      "description": "Το φανοποιείο μας προσφέρει υπηρεσίες βαφής και επισκευής αμαξωμάτων."
     }
   ]
 }

@@ -1,14 +1,15 @@
 {
-  "title":"Expertise",
-  "expertIn": 
-  ["Customer Experience Design",
-    "Digital Products",
-    "Development",
-    "Campaign & Content",
-    "Employer Branding",
-    "Animation & Motion Graphics",
-    "Packaging & Product Design",
-    "Retail & Spacial",
-    "Print & Editorial DesignPrint & Editorial Design",
-    "Concept/Text","Information Design"]
+  "title": "Εξειδίκευση",
+  "expertIn": [
+    "Διάγνωση και Επισκευή Κινητήρα",
+    "Συντήρηση και Αλλαγή Λαδιών",
+    "Επισκευή Φρένων",
+    "Ευθυγράμμιση Τροχών",
+    "Αντικατάσταση Μπαταρίας",
+    "Σύστημα Εξάτμισης",
+    "Ηλεκτρολογικές Εργασίες",
+    "Αντικατάσταση Ελαστικών",
+    "Σύστημα Ψύξης",
+    "Ανάρτηση και Διεύθυνση"
+  ]
 }

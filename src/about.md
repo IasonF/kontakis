@@ -1,5 +1,5 @@
 ---
 layout: layouts/about.njk
-des: "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us."
+des: "Είμαστε το κορυφαίο συνεργείο αυτοκινήτων στην περιοχή, προσφέροντας υψηλής ποιότητας υπηρεσίες συντήρησης και επισκευής για όλα τα είδη οχημάτων. Η ομάδα μας αποτελείται από έμπειρους και εξειδικευμένους μηχανικούς που είναι αφοσιωμένοι στην παροχή άριστης εξυπηρέτησης πελατών."
 ---
-# We are roxo design.<br>An award-winning creative studio in Florida.
+# Καλώς ήρθατε στο συνεργείο Kontakis.<br>Η πρώτη επιλογή σας για αξιόπιστες και επαγγελματικές υπηρεσίες αυτοκινήτων.

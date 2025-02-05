@@ -1,20 +1,20 @@
 {
-  "title": "The Proof is in the Pudding!",
+  "title": "Η Απόδειξη είναι στο Αποτέλεσμα!",
   "achievements":[
     {
-      "title": "Happy Clients",
+      "title": "Ευχαριστημένοι Πελάτες",
       "counter": "253"
     },
     {
-      "title": "Projects Completed",
+      "title": "Επισκευασμένα αυτοκίνητα",
       "counter": "111"
     },
     {
-      "title": "Cups of coffee",
+      "title": "Καμμένες φλάτζες",
       "counter": "351"
     },
     {
-      "title": "Telephone Talks",
+      "title": "Αλλαγές λαδιών",
       "counter": "740"
     }
   ]
