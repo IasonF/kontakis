@@ -1,11 +1,11 @@
 {
-  "heading":"LET’S WORK TOGETHER",
+  "heading":"Ας επισκευάσουμε το όχημα σας",
   "submitBtn":{
-    "btnText":"Submit Query",
+    "btnText":"Ραντεβού",
     "btnLink":"contact"
   },
   "convBtn":{
-    "btnText":"Not Convinced",
+    "btnText":"Περισσότερες πληροφορίες",
     "btnLink":"portfolio"
   }
 }

@@ -1,19 +1,15 @@
 {
   "footerLogo": "/assets/images/logo-footer.png",
 
-  "contactsHeading": "Contact Info",
+  "contactsHeading": "Στοιχεία Επικοινωνίας",
   "contactsInfo":[
     {
       "link":"https://goo.gl/maps/fBANt7Ns2wi6mM7cA",
-      "text":"713 Elmwood St. Prior Lake, MN 55372"
+      "text":"Αγ. Σαράντα 4, Μοσχάτο 123 56, Ελλάδα"
     },
     {
-      "link":"tel:409-896-1444",
-      "text":"409-896-1444"
-    },
-    {
-      "link":"tel:409-781-1308",
-      "text":"409-781-1308"
+      "link":"tel:+306932542193",
+      "text":"+30 693 254 2193"
     },
     {
       "link":"mailto:",
@@ -21,45 +17,41 @@
     }
   ],
 
-  "siteMapHeading":"Sitemap",
+  "siteMapHeading":"Χάρτης",
   "siteMap":[
     {
       "link":"about",
-      "text":"About Company"
+      "text":"Σχετικά με Εμάς"
     },
     {
-      "link":"portfolio",
-      "text":"Projects"
+      "link":"services",
+      "text":"Υπηρεσίες"
     },
     {
-      "link":"terms-conditions",
-      "text":"Terms & Condition"
+      "link":"contact",
+      "text":"Επικοινωνία"
     }
   ],
 
-  "socialHeading":"Social Media",
+  "socialHeading":"Κοινωνικά Δίκτυα",
   "socialMedia":[
     {
       "link":"#",
-      "text":"Medium"
-    },
-    {
-      "link":"#",
-      "text":"Behance"
-    },
-    {
-      "link":"#",
-      "text":"Dribbble"
+      "text":"Facebook"
     },
     {
       "link":"#",
       "text":"Instagram"
+    },
+    {
+      "link":"#",
+      "text":"LinkedIn"
     }
   ],
-  
-  "brandHeading":"We help brands:",
-  "brandMotto":["develop design solutions","produce valuable cultural content","create fresh brand experience"],
+
+  "brandHeading":"Εξειδίκευση σε:",
+  "brandMotto":["επισκευές αυτοκινήτων","συντήρηση οχημάτων","άριστη εξυπηρέτηση πελατών"],
 
   "back2topIcon":"/assets/images/to-top.svg",
-  "customerComment":"I want to visit again"
+  "customerComment":"Αρχική"
 }

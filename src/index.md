@@ -1,10 +1,10 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "ΔΟΥΛΕΥΟΥΜΕ ΣΚΛΗΡΑ, ΠΑΙΖΟΥΜΕ ΣΚΛΗΡΑ"
+  subTitle: "ΔΟΥΛΕΥΟΥΜΕ ΣΚΛΗΡΑ, ΕΠΙΣΚΕΥΑΖΟΥΜΕ ΜΕ ΓΝΩΣΗ"
   title:
     firstPara: "Είμαστε ένα Συνεργείο Αυτοκινήτων"
-    secondPara: "Που Πιστεύει στις Μεγάλες Ιδέες"
+    secondPara: "Που Θα Επισκεφτεστε Μία Φορά το Χρόνο"
   seeWorkBtn:
     text: "Δείτε τις Εργασίες μας"
     link: "#project"
