@@ -128,6 +128,9 @@
               <h5 class="site-footer-widget-title">{{footer.contactsHeading}}</h5>
               <p class="site-footer-widget-description">
               {% for contactInfo in footer.contactsInfo %}
+              <li>
+              <a href="{{contactInfo.link}}">{{contactInfo.text}}</a><br>
+              </li>
               {% endfor %}
                 <a href="{{contactInfo.link}}">{{contactInfo.text}}</a>
                 <br>
