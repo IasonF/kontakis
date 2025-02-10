@@ -1,8 +1,7 @@
 ---
 layout: "layouts/contact.njk"
-title: "Don’t be shy. Say "
-subTitle: Hello.
-formTitle: "Tell us about your project"
-btnText: "Send Message"
+title: "Είμαστε δίπλα σας για όλες τις ανάγκες του "
+subTitle: "Αυτοκίνητου"
+formTitle: "Μερικες πληροφοριες"
+btnText: "Αποστολή Μηνύματος"
 ---
-

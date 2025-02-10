@@ -1,7 +1,6 @@
 {% extends "base.njk" %}
 
 {% block content %}
-
     <section class="site-contact">
       <div class="container">
         <div class="row">
@@ -13,28 +12,22 @@
           <div class="col-lg-6 ml-auto">
             <div class="site-contact-form">
               <h4>{{formTitle}}</h4>
-              <form method="POST" action="https://fabform.io/f/ulB_j_f">
+              <form method="POST" action="https://fabform.io/f/_P26tjF">
                 <div class="row">
                   <div class="col-lg-6">
-                    <input type="text" class="form-control" name="first-name" id="first-name" placeholder="First Name">
+                    <input type="text" class="form-control" name="first-name" id="first-name" placeholder="Όνομα">
                   </div>
                   <div class="col-lg-6">
-                    <input type="text" class="form-control" name="last-name" id="last-name" placeholder="Last Name">
+                    <input type="text" class="form-control" name="phone" id="phone" placeholder="Τηλέφωνο">
                   </div>
                   <div class="col-lg-6">
                     <input type="email" class="form-control" name="email" id="email" placeholder="Email">
                   </div>
                   <div class="col-lg-6">
-                    <div class="select-wrapper">
-                      <select class="form-control" id="projectType">
-                        <option value="" selected disabled hidden>Project Type</option>
-                        <option value="gd">Graphics Design</option>
-                        <option value="wb">Web Design</option>
-                      </select>
-                    </div>
+                    <input type="text" class="form-control" name="car-brand" id="car-brand" placeholder="Μάρκα Οχήματος">
                   </div>
                   <div class="col-12">
-                    <textarea class="form-control" id="aboutProject" rows="6" placeholder="About the Project"></textarea>
+                    <textarea class="form-control" name="description" id="description" rows="6" placeholder="Περιγραφή Εργασιών/Σχόλια"></textarea>
                   </div>
                   <div class="col-12">
                     <button type="submit" class="btn btn-primary" formtarget="_blank">
@@ -47,14 +40,12 @@
                   </div>
                 </div>
               </form>
-              <p class="contact-form-generator mt-3">
-                <strong>** </strong><a href="https://fabform.io/" target="_blank">Static website forms</a>
-              </p>
             </div>
           </div>
         </div>
       </div>
     </section>
-  
 {% endblock %}
+
+
 {% block workTogether %}{% endblock %}
