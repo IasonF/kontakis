@@ -12,25 +12,26 @@
           <div class="col-lg-6 ml-auto">
             <div class="site-contact-form">
               <h4>{{formTitle}}</h4>
-              <form method="POST" action="https://fabform.io/f/_P26tjF">
+              <form method="POST" action="https://api.web3forms.com/submit">
+                <input type="hidden" name="access_key" value="04e57b61-ed9f-4e14-8e1b-dc2749136e0e">
                 <div class="row">
                   <div class="col-lg-6">
-                    <input type="text" class="form-control" name="first-name" id="first-name" placeholder="Όνομα">
+                    <input type="text" class="form-control" name="first-name" id="first-name" placeholder="Όνομα" required>
                   </div>
                   <div class="col-lg-6">
-                    <input type="text" class="form-control" name="phone" id="phone" placeholder="Τηλέφωνο">
+                    <input type="text" class="form-control" name="phone" id="phone" placeholder="Τηλέφωνο" required>
                   </div>
                   <div class="col-lg-6">
-                    <input type="email" class="form-control" name="email" id="email" placeholder="Email">
+                    <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
                   </div>
                   <div class="col-lg-6">
-                    <input type="text" class="form-control" name="car-brand" id="car-brand" placeholder="Μάρκα Οχήματος">
+                    <input type="text" class="form-control" name="car-brand" id="car-brand" placeholder="Μάρκα Οχήματος" required>
                   </div>
                   <div class="col-12">
-                    <textarea class="form-control" name="description" id="description" rows="6" placeholder="Περιγραφή Εργασιών/Σχόλια"></textarea>
+                    <textarea class="form-control" name="description" id="description" rows="6" placeholder="Περιγραφή Εργασιών/Σχόλια" required></textarea>
                   </div>
                   <div class="col-12">
-                    <button type="submit" class="btn btn-primary" formtarget="_blank">
+                    <button type="submit" class="btn btn-primary">
                       <span class="btn-area">
                         <span data-text="{{btnText}}">
                           {{btnText}}
@@ -46,6 +47,5 @@
       </div>
     </section>
 {% endblock %}
-
 
 {% block workTogether %}{% endblock %}
