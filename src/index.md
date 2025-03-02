@@ -1,15 +1,11 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  subTitle: "ΔΟΥΛΕΥΟΥΜΕ ΣΚΛΗΡΑ, ΕΠΙΣΚΕΥΑΖΟΥΜΕ ΜΕ ΓΝΩΣΗ"
-  title:
-    firstPara: "Είμαστε ένα Συνεργείο Αυτοκινήτων"
-    secondPara: "Που Θα Επισκεφτεστε Μία Φορά το Χρόνο"
   seeWorkBtn:
-    text: "Δείτε τις Εργασίες μας"
+    text: "Συνεργείο αυτοκινήτων"
     link: "#project"
   connectBtn:
-    text: "Επικοινωνήστε μαζί μας"
+    text: "GROUP VAG and more..."
     link: "contact"
 
 portfolio:

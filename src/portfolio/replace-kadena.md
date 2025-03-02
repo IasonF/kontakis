@@ -2,7 +2,7 @@
 subTitle: "ΑΛΛΑΓΗ ΚΑΔΕΝΑΣ"
 title: "Αλλαγή Καδένας"
 img: "/assets/images/projects/project-thumb-two.jpg"
-linkText: "view project"
+linkText: "περισσότερα"
 featureImg1: "/assets/images/projects/project-details-image-one.jpg"
 featureImg2: "/assets/images/projects/project-details-image-two.jpg"
 ---

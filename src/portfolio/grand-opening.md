@@ -2,7 +2,7 @@
 subTitle: "ΕΓΚΑΙΝΙΑ ΜΕ ΝΙΚΟ ΤΣΕΓΚΕΛΗ"
 title: "Εγκαίνια με Νίκο Τσεγκέλη"
 img: "/assets/images/projects/project-thumb-three.jpg"
-linkText: "view project"
+linkText: "περισσότερα"
 featureImg1: "/assets/images/projects/project-details-image-one.jpg"
 featureImg2: "/assets/images/projects/project-details-image-two.jpg"
 ---

@@ -1,7 +1,7 @@
 {
   "navLogo":"/assets/images/logo.png",
   "navLinks":["home","about","portfolio"],
-  "navLinksText":["Αρχική","Σχετικά με Εμάς","Εργασίες"],
+  "navLinksText":["Αρχική","Σχετικά με Εμάς","Υπηρεσίες"],
   "navBtnLink":"contact",
-  "navBtnText":"Ραντεβού"
+  "navBtnText":"Επικοινωνία"
 }
