@@ -1,17 +1,11 @@
 ---
 layout: "layouts/homepage.njk"
 hero:
-  seeWorkBtn:
-    text: "Συνεργείο αυτοκινήτων"
-    link: "#project"
-  connectBtn:
-    text: "GROUP VAG and more..."
-    link: "contact"
-
+# Removed seeWorkBtn elements
 portfolio:
-  subTitle: "ΟΙ ΠΡΟΣΦΑΤΕΣ ΕΡΓΑΣΙΕΣ ΜΑΣ"
-  title: "Δημιουργούμε εμπειρίες και επιδιώκουμε να κάνουμε το περίπλοκο απλό και όμορφο."
+  subTitle: "ΥΠΗΡΕΣΙΕΣ"
+  title: ""
   seeAllbtn:
     link: "portfolio"
-    text: "ΠΕΡΙΣΣΟΤΕΡΕΣ ΕΡΓΑΣΙΕΣ"
+    text: "ΠΕΡΙΣΣΟΤΕΡΕΣ ΥΠΗΡΕΣΙΕΣ"
 ---

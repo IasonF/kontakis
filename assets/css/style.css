@@ -23,7 +23,7 @@ p {
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 80px;
 }
 
 h2 {
@@ -116,7 +116,7 @@ h6 {
   color: #fff;
 }
 .btn-secondary:hover {
-  background: #8bc5bf;
+  background: #ed1924;
 }
 
 body {
@@ -290,7 +290,7 @@ textarea.form-control {
   background-image: url(\../images/backgrounds/main-image.jpg);
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
 }
 @media (max-width: 991px) {
   .site-hero {
@@ -303,13 +303,48 @@ textarea.form-control {
     padding: 150px 0;
   }
 }
+.site-hero-content {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  text-align: center;
+}
+
 .site-hero-content h1 {
-  margin-bottom: 75px;
+  font-size: 80px;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  margin: 0;
+  line-height: 1.2;
+}
+.site-hero-content h1 {
+  margin-bottom: 175px;
 }
 @media (max-width: 991px) {
   .site-hero-content h1 {
     font-size: 30px;
   }
+}
+.site-achieve {
+  padding: 85px 0;
+  color: #fff;
+  background: #ed1924;
+}
+
+.site-achieve .section-title {
+  margin-bottom: 40px;
+}
+
+.site-achieve-list {
+  list-style: none;
+  padding: 0;
+}
+
+.site-achieve-list li {
+  font-size: 25px;
+  font-weight: 300;
+  margin-bottom: 20px;
 }
 .site-hero-content-buttons {
   margin: 0;
@@ -352,7 +387,7 @@ textarea.form-control {
 .site-counter {
   padding: 85px 0;
   color: #fff;
-  background: #ADD6D2;
+  background: #ed1924;
 }
 .site-counter .section-title {
   margin-bottom: 40px;
@@ -581,8 +616,6 @@ textarea.form-control {
   font-weight: 300;
   color: #00113E;
   display: flex;
-  /* margin-left: auto; */
-  /* justify-content: flex-end; */
 }
 @media (max-width: 575px) {
   .site-project-single-action a {
@@ -727,8 +760,10 @@ textarea.form-control {
   letter-spacing: 1px;
 }
 .site-about-description {
-  width: 60%;
-  padding-left: 50px;
+  padding: 200px 0;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
 }
 @media (max-width: 991px) {
   .site-about-description {
@@ -894,7 +929,7 @@ textarea.form-control {
 }
 
 .site-footer {
-  background: #ADD6D2;
+  background: #ffffff;
   padding: 20px 0;
 }
 .site-footer-logo {
