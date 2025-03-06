@@ -725,57 +725,6 @@ textarea.form-control {
   }
 }
 
-.site-about-header {
-  padding-top: 80px;
-  background-color: #F7F9FF;
-}
-@media (max-width: 575px) {
-  .site-about-header {
-    padding-top: 60px;
-    text-align: center;
-  }
-}
-.site-about-wrapper {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-}
-.site-about-company {
-  background: #EAA4A4;
-  width: 40%;
-  padding: 70px 38px;
-}
-@media (max-width: 991px) {
-  .site-about-company {
-    width: 100%;
-    margin-bottom: 20px;
-  }
-}
-.site-about-company h1 {
-  color: #fff;
-  font-weight: 400;
-  font-size: 25px;
-  line-height: 60px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-.site-about-description {
-  padding: 200px 0;
-  margin: 0 auto;
-  width: 100%;
-  box-sizing: border-box;
-}
-@media (max-width: 991px) {
-  .site-about-description {
-    width: 100%;
-    padding: 0 38px;
-  }
-}
-.site-about-description p {
-  font-size: 25px;
-  font-weight: 300;
-  margin-bottom: 0;
-}
 
 .site-expertise {
   padding: 100px 0;
@@ -1024,5 +973,27 @@ textarea.form-control {
     margin-bottom: 50px;
     letter-spacing: 3px;
   }
+.about-hero {
+  background: none;
+  padding: 150px 0 20px;
+}
+
+.site-about-description {
+  padding: 20px 0;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+}
+@media (max-width: 991px) {
+  .site-about-description {
+    width: 100%;
+    padding: 20px 38px;
+  }
+}
+.site-about-description p {
+  font-size: 25px;
+  font-weight: 300;
+  margin-bottom: 0;
+}
 
 /*# sourceMappingURL=maps/style.css.map */
