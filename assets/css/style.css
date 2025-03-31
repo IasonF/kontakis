@@ -434,6 +434,48 @@ textarea.form-control {
   bottom: 0;
   transition: all 0.3s cubic-bezier(0.36, 0.03, 0, 0.91);
 }
+
+/* Add this to your existing CSS file */
+
+@media (max-width: 767px) {
+  .site-project-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .site-project-item-thumb {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .site-project-item-thumb img {
+    width: 100%;
+    height: auto;
+  }
+
+  .site-project-item-content {
+    position: static;
+    background: none;
+    padding: 0;
+    text-align: center;
+  }
+
+  .site-project-item-content h3 {
+    font-size: 20px;
+  }
+
+  .site-project-item-content span {
+    font-size: 16px;
+  }
+
+  .site-project-item-content a.read-more {
+    position: static;
+    margin-top: 10px;
+    opacity: 1;
+    transform: none;
+  }
+}
 @media (max-width: 767px) {
   .site-project-item-content {
     padding: 30px;

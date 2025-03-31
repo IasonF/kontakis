@@ -1,7 +1,11 @@
 {% extends "base.njk" %}
 
-{% block content %}
+{% block head %}
+  <title>Συνεργείο Αυτοκινήτων στο Μοσχάτο | Σπύρος Κοντάκης</title>
+  <meta name="description" content="Συνεργείο αυτοκινήτων στο Μοσχάτο. Ο Σπύρος Κοντάκης προσφέρει επαγγελματικές υπηρεσίες συντήρησης και επισκευής αυτοκινήτων.">
+{% endblock %}
 
+{% block content %}
     <section class="site-hero">
       <div class="container">
         <div class="row">
@@ -18,19 +22,19 @@
       </div>
     </section>
 
-<section class="site-achieve" id="achieve">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <ul class="site-achieve-list text-center">
-          {% for point in achieve.points %}
-          <li>{{ point }}</li>
-          {% endfor %}
-        </ul>
+    <section class="site-achieve" id="achieve">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <ul class="site-achieve-list text-center">
+              {% for point in achieve.points %}
+              <li>{{ point }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-</section>
+    </section>
 
     <section class="site-project" id="project">
       <div class="container">
@@ -62,5 +66,4 @@
         </div>
       </div>
     </section>
-  
 {% endblock %}
