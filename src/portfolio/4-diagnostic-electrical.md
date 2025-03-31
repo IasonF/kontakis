@@ -1,9 +1,9 @@
 ---
 title: "Διαγνωστικός Έλεγχος και Ηλεκτρολογικές Εργασίες"
-img: "/assets/images/projects/project-thumb-two.jpg"
+img: "/assets/images/projects/diagnostic-electrical.jpg"
 linkText: "περισσότερα"
-featureImg1: "/assets/images/projects/project-details-image-one.jpg"
-featureImg2: "/assets/images/projects/project-details-image-two.jpg"
+featureImg1: "/assets/images/projects/spyros.jpg"
+order: 4
 ---
 Ενδεικτικές εργασίες:
 

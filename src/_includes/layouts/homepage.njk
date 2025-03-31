@@ -16,9 +16,6 @@
           </div>
         </div>
       </div>
-      <a href="#counter" class="site-hero-scroll scroll-to">
-        <img src="/assets/images/arrow-down.svg" alt="arrow-down">
-      </a>
     </section>
 
 <section class="site-achieve" id="achieve">
@@ -44,7 +41,8 @@
               <p>{{portfolio.title}}</p>
             </div>
           </div>
-          {% for portfolio in collections.portfolios %}
+          {% set sortedPortfolios = collections.portfolios | sort(attribute='data.order') %}
+          {% for portfolio in sortedPortfolios %}
           <div class="col-lg-6 col-md-10 mx-auto">
             <div class="site-project-item">
               <div class="site-project-item-thumb">
